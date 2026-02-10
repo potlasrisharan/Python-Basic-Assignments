@@ -98,6 +98,7 @@ Sum of numbers from 1 to 50 is 1275
 
 ## How to Run
 
+Make sure Python 3 is installed.
 
 Clone the repository:
 
@@ -124,3 +125,65 @@ python Assignment-2/sum_of_first_50.py
 - Loops
 - String manipulation
 - Basic program structure
+
+## Assignment 3 – Functions & Modules in Python 
+
+Task 1: Calculate Factorial Using a Function 
+
+File: Assignment-3/factorial_using_function.py 
+
+This program:
+
+Defines a function named factorial that takes a number as a "seed".
+
+Uses recursion to calculate the factorial (multiplying a number by every number below it until it reaches 1).
+
+Returns and prints the final calculated result.
+
+Example:
+
+Enter a number: 5
+Factorial of 5 is: 120
+Task 2: Using the Math Module 
+
+File: Assignment-3/math_module.py 
+
+This program:
+
+Asks the user for a single number.
+
+Uses Python's built-in math module to do advanced "calculator" work.
+
+Calculates the Square root, Natural logarithm, and Sine (in radians) of the number.
+
+Displays all calculated results clearly.
+
+Example:
+
+Enter a number: 25
+Square root: 5.0
+Logarithm: 3.2188758248682006
+Sine: -0.13235175009777303
+How to Run
+Make sure Python 3 is installed.
+
+Clone the repository:
+
+git clone https://github.com/potlasrisharan/Python-Basic-Assignments.git
+Run the new Assignment 3 scripts:
+
+python Assignment-3/factorial_using_function.py
+python Assignment-3/math_module.py
+Skills Demonstrated
+User input handling 
+
+Arithmetic operations & Loops
+
+
+Defining and calling Functions 
+
+
+Importing and using Python Modules (math) 
+
+
+Recursion logic
